@@ -16,6 +16,7 @@ Run EndlessRunner.exe
 
 How to play:
 * Press "A" to move left and "D" to move right. Press Space to jump!
+* The runner goes faster the longer you last!
 
 Objective:
 * Avoid obstacles and collect coins!
